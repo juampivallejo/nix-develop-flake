@@ -41,7 +41,6 @@
             export DIRENV=1
             source .env
             source .venv/bin/activate
-            zsh
           '';
         };
 
